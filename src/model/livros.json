@@ -1,0 +1,72 @@
+[
+    {
+        "id": "001",
+        "titulo": "Regretting You",
+        "autor": "Colleemn Hoover",
+        "genero": "Romance",
+        "comprado": true
+    },
+    {
+        "id": "002",
+        "titulo": "Geekerella: A Fangirl Fairy Tale: 1",
+        "autor": "Ashley Poston",
+        "genero": "Romance",
+        "comprado": false
+    },
+    {
+        "id": "003",
+        "titulo": "Mortos não Contam Segredos",
+        "autor": "Karen McManus",
+        "genero": "Suspense",
+        "comprado": false
+    },
+    {
+        "id": "004",
+        "titulo": "O Mundo de Sofia",
+        "autor": "Jostein Gaarder",
+        "genero": "Romance Filosófico",
+        "comprado": true
+    },
+    {
+        "id": "005",
+        "titulo": "A Revolução dos Bichos",
+        "autor": "George Orwell",
+        "genero": "Ficção",
+        "comprado": true
+    },
+    {
+        "id": "006",
+        "titulo": "O Conto da Aia",
+        "autor": "Margaret Atwood",
+        "genero": "Ficção",
+        "comprado": false
+    },
+    {
+        "id": "007",
+        "titulo": "Me Before You",
+        "autor": "Jojo Moyes",
+        "genero": "Romance",
+        "comprado": true
+    },
+    {
+        "id": "008",
+        "titulo": "Mulheres, Raça e Classe",
+        "autor": "Angela Davis",
+        "genero": "Biografia",
+        "comprado": false
+    },
+    {
+        "id": "009",
+        "titulo": "Her Ever Fear",
+        "autor": "Peter Swanson",
+        "genero": "Suspense",
+        "comprado": true
+    },
+    {
+        "id": "010",
+        "titulo": "Admirável Mundo Novo",
+        "autor": "Aldous Leonard Huxley",
+        "genero": "Ficção",
+        "comprado": true
+    }
+]
